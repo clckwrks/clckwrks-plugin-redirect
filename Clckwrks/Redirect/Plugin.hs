@@ -18,6 +18,7 @@ import Data.Acid.Advanced           (update', query')
 import Data.Acid.Local              (createCheckpointAndClose, openLocalStateFrom,)
 import Data.Char              (ord)
 import Data.List              (intersperse)
+import Data.Monoid            ((<>))
 import Data.String            (fromString)
 import qualified Data.Text    as Text
 import Data.Text                    (Text)
