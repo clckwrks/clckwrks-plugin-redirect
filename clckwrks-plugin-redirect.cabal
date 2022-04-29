@@ -1,5 +1,5 @@
 name:                clckwrks-plugin-redirect
-version:             0.0.1.2
+version:             0.0.1.3
 synopsis:            support redirects for CMS/Blogging in clckwrks
 description:         This allows you to create custom url redirects as well as internal rewrites
 homepage:            http://www.clckwrks.com/
